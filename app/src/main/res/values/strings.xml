@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SLIATEchat</string>
+    <string name="registor">Registor</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="all_user">All User</string>
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="loging_to_account">Loging to Account</string>
+    <string name="loging">Loging</string>
+    <string name="register_new_account">REGISTER NEW ACCOUNT</string>
+    <string name="alredy_have_account">ALREDY HAVE ACCOUNT</string>
+    <string name="welcome_to_sliate_n_chat_app">Welcome to Sliate   Chat app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="defalt_user_name">Sliate Chat User</string>
+    <string name="defalt_status">Hi There i\'m using SLIATE Chat APP</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="what_is_your_status">What is Your Status</string>
+    <string name="user_name">User Name</string>
+    <string name="user_status">User status</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="send_friend_request">Send Friend Request</string>
+    <string name="reject_friend_request">Reject Friend Request</string>
+    <string name="last_seen">Last Seen</string>
+    <string name="display_name">Display Name</string>
+    <string name="enter_massage">Enter massage</string>
+    <string name="todo">ToDo</string>
+    <string name="btnvideo">btnvideo</string>
+    <string name="btnvoicecall">btnvoicecall</string>
+    <string name="textview">textview</string>
+    <string name="time">Time</string>
+    <string name="online_icon">online_icon</string>
+
+    <string name="title_activity_incoming_popup">Incoming_popup</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_call_dialog">CallDialog</string>
+    <string name="answer">Answer</string>
+    <string name="reject">Reject</string>
+
+</resources>

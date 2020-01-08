@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589722875266",
+    "firebase_url": "https://sliatechat.firebaseio.com",
+    "project_id": "sliatechat",
+    "storage_bucket": "sliatechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589722875266:android:c3c98bc30ed77866850b9b",
+        "android_client_info": {
+          "package_name": "com.shancreation.sliatechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589722875266-fp8gqcp967bv80n7qq143ucglhl461rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shancreation.sliatechat",
+            "certificate_hash": "0a43e1216e86574da81f832c59abb05a2b0ff998"
+          }
+        },
+        {
+          "client_id": "589722875266-ed60ci9k1rjgbn69ij2sip31oe4ihvpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWvCtbPxnEP0RfqtOcV8CHPlLtCcH1Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589722875266-ed60ci9k1rjgbn69ij2sip31oe4ihvpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
